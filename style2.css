@@ -1,0 +1,181 @@
+body {
+    font-family: 'Raleway', sans-serif;
+   }
+
+header {
+    background: black;
+    height: auto;
+    margin: 20px 15px 0 px 15px;
+    padding: 25px 0px 25px 0px;
+
+}
+
+h1 {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 39px;
+}
+
+h2 {
+    margin: 20px 20px 20px 20px;
+}
+
+nav {
+    background-color: grey;
+    text-align: center;
+    float: right;
+    margin-right: 20px;
+    margin-top: 3px;
+
+}
+
+nav ul {
+    padding-left: 0px;
+    margin: 0px;
+}
+
+nav ul li {
+        display: block;
+        position: relative;
+        float: left;
+
+}
+
+nav ul li a {
+        display: block;
+        float: left;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        color: white;
+        padding: 10px 15px 10px 15px;
+
+}
+
+a:hover {color: red;}
+
+#checkzip {
+        display: block;
+        float:left;
+        background-color: black;
+        color: white;
+        margin-top: 100px;
+}
+
+#zipcode {
+        margin: 0px 0px 20px 20px;
+
+}
+
+.icon-bitbucket {
+        color: white;
+        margin: 0px 0px 0px 20px;
+        display: block;
+        float: left;
+        position: fixed;
+        width: 100%;
+}
+
+
+#welcomebox {
+        text-align: center;
+        margin: 300px 300px 300px 300px;
+        background: black;
+        padding: 100px 0px 0px 0px;
+
+}
+
+#logo {
+    text-align: center;
+    margin: 0px 300px 0px 300px;
+    background: black;
+    padding: 0px 0px 0px 0px;
+}
+
+.buttongreen {
+    background-color:#b8e356;
+    -webkit-border-top-left-radius:1px;
+    -moz-border-radius-topleft:1px;
+    border-top-left-radius:1px;
+    -webkit-border-top-right-radius:1px;
+    -moz-border-radius-topright:1px;
+    border-top-right-radius:1px;
+    -webkit-border-bottom-right-radius:1px;
+    -moz-border-radius-bottomright:1px;
+    border-bottom-right-radius:1px;
+    -webkit-border-bottom-left-radius:1px;
+    -moz-border-radius-bottomleft:1px;
+    border-bottom-left-radius:1px;
+    text-indent:0px;
+    border:6px solid #83c41a;
+    display:inline-block;
+    color:#030303;
+    font-family:Arial;
+    font-size:27px;
+    font-weight:bold;
+    font-style:normal;
+    height:61px;
+    line-height:61px;
+    width:171px;
+    text-decoration:none;
+    text-align:center;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.buttongreen:hover {
+    background-color:#a5cc52;
+}
+
+.buttongreen:active {
+    position:relative;
+    top:1px;
+}
+
+.buttonred {
+    background-color:#f24537;
+    -webkit-border-top-left-radius:1px;
+    -moz-border-radius-topleft:1px;
+    border-top-left-radius:1px;
+    -webkit-border-top-right-radius:1px;
+    -moz-border-radius-topright:1px;
+    border-top-right-radius:1px;
+    -webkit-border-bottom-right-radius:1px;
+    -moz-border-radius-bottomright:1px;
+    border-bottom-right-radius:1px;
+    -webkit-border-bottom-left-radius:1px;
+    -moz-border-radius-bottomleft:1px;
+    border-bottom-left-radius:1px;
+    text-indent:0px;
+    border:6px solid #d02718;
+    display:inline-block;
+    color:#000000;
+    font-family:Arial;
+    font-size:27px;
+    font-weight:bold;
+    font-style:normal;
+    height:61px;
+    line-height:61px;
+    width:171px;
+    text-decoration:none;
+    text-align:center;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.buttonred:hover {
+    background-color:#c62d1f;
+
+}
+
+.buttonred:active {
+    position:relative;
+    top:1px;
+}
+
+
